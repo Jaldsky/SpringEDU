@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:property-placeholder location="classpath:musicPlayer.properties"/> <!--внедряем значения из внешнего файла-->
+
+    <bean id="classicalMusicBean"
+          class="ru.jald.spring.ClassicalMusic">
+    </bean>
+
+    <bean id="rockMusicBean"
+          class="ru.jald.spring.RockMusic">
+    </bean>
+
+    <bean id="phonkMusicBean"
+          class="ru.jald.spring.PhonkMusic">
+    </bean>
+
+    <bean id="classicalMusicPlayer"
+          class="ru.jald.spring.MusicPlayer">
+        <property name="music" ref="classicalMusicBean"/>
+
+        <property name="name" value="Chaikovsky"/> <!-- В сеттеры name и value добавляем имя и значение напрямую-->
+        <property name="volume" value="50"/>
+    </bean>
+
+    <bean id="phonkMusicPlayer"
+          class="ru.jald.spring.MusicPlayer">
+        <property name="music" ref="phonkMusicBean"/>
+
+        <property name="name" value="${musicPlayer.name}"/> <!-- В сеттеры name и value добавляем имя и значение из внешнего файла-->
+        <property name="volume" value="${musicPlayer.volume}"/>
+    </bean>
+
+    <bean id="rockMusicPlayer"
+          class="ru.jald.spring.MusicPlayer">
+        <property name="music" ref="rockMusicBean"/>
+    </bean>
+
+    <bean id="musicPlayer"
+          class="ru.jald.spring.MusicPlayer">
+        <property name="musicList">
+            <list>
+                <ref bean="classicalMusicBean" />
+                <ref bean="rockMusicBean" />
+                <ref bean="phonkMusicBean" />
+            </list>
+        </property>
+    </bean>
+</beans>
