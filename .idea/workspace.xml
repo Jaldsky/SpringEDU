@@ -20,28 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc5fc9e-4fa0-4696-88ed-5fa3d306c5fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SpringEDU.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app1_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app1_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app2_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app2_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app3_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app3_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app6_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app6_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app5_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app5_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-app5/spring-app5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-app5/spring-app5.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,23 +47,25 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-app5/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-app6/src/main" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.20231214" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jald\IdeaProjects\SpringEDU" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jald\IdeaProjects\spring-app6\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app5\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app4\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app3\src\main" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jald\IdeaProjects\SpringEDU" />
     </key>
   </component>
   <component name="RunManager" selected="Application.TestSpring">
@@ -95,7 +84,7 @@
     </configuration>
     <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.jald.spring.TestSpring" />
-      <module name="spring-app3" />
+      <module name="spring-app6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.jald.spring.*" />
@@ -127,7 +116,8 @@
       <workItem from="1645122375565" duration="3844000" />
       <workItem from="1645202256255" duration="333000" />
       <workItem from="1645204566637" duration="4142000" />
-      <workItem from="1645212045233" duration="2032000" />
+      <workItem from="1645212045233" duration="2457000" />
+      <workItem from="1645293554818" duration="1550000" />
     </task>
     <servers />
   </component>
@@ -147,10 +137,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="464" y="16" key="#TestSpring" timestamp="1645213909230">
+    <state x="464" y="16" key="#TestSpring" timestamp="1645294473501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="464" y="16" key="#TestSpring/0.0.1536.824@0.0.1536.824" timestamp="1645213909230" />
+    <state x="464" y="16" key="#TestSpring/0.0.1536.824@0.0.1536.824" timestamp="1645294473501" />
     <state x="464" y="32" key="#TestSpring_(1)" timestamp="1645212029491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -159,34 +149,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="771" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1645212671193" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1645213912613">
+    <state width="1030" height="210" key="GridCell.Tab.0.bottom" timestamp="1645294990580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645213912613" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1645213912612">
+    <state width="1030" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645294990580" />
+    <state width="1030" height="210" key="GridCell.Tab.0.center" timestamp="1645294990579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645213912612" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1645213912612">
+    <state width="1030" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645294990579" />
+    <state width="1030" height="210" key="GridCell.Tab.0.left" timestamp="1645294990579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645213912612" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1645213912613">
+    <state width="1030" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645294990579" />
+    <state width="1030" height="210" key="GridCell.Tab.0.right" timestamp="1645294990579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645213912613" />
+    <state width="1030" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645294990579" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1645211509088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1645211509088" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1645212321129">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1645294432255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1645212321129" />
-    <state x="182" y="73" key="new project wizard" timestamp="1645212118153">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1645294432255" />
+    <state x="182" y="73" key="new project wizard" timestamp="1645294298864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="182" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1645212118153" />
+    <state x="182" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1645294298864" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1645124863447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
