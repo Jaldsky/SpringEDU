@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/../spring-app7" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-app8" />
     <file type="web" url="file://$PROJECT_DIR$/spring-app5" />
     <file type="web" url="file://$PROJECT_DIR$/spring-app6" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-app7" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -14,6 +15,7 @@
         <option value="$PROJECT_DIR$/../spring-app5/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-app6/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-app7/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-app8/pom.xml" />
       </list>
     </option>
   </component>
