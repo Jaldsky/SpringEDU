@@ -20,20 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc5fc9e-4fa0-4696-88ed-5fa3d306c5fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app8_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app8_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app7_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app7_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app9_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app9_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_app8_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_app8_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-app7/spring-app7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-app7/spring-app7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-app8/spring-app8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-app8/spring-app8.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +57,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-app8/src/main/java/ru/jald/spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-app9/src/main" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
@@ -65,14 +71,14 @@
       <recent name="ru.jald.spring" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jald\IdeaProjects\spring-app9\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app8\src\main\java\ru\jald\spring" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app8\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app7\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app6\src\main" />
-      <recent name="C:\Users\Jald\IdeaProjects\spring-app5\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestSpring (2)">
+  <component name="RunManager" selected="Application.TestSpring (3)">
     <configuration name="TestSpring (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.jald.spring.TestSpring" />
       <module name="spring-app7" />
@@ -99,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSpring (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.jald.spring.TestSpring" />
+      <module name="spring-app9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.jald.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.jald.spring.TestSpring" />
       <module name="spring-app6" />
@@ -114,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSpring (3)" />
         <item itemvalue="Application.TestSpring (2)" />
         <item itemvalue="Application.TestSpring (1)" />
         <item itemvalue="Application.TestSpring" />
@@ -136,6 +156,8 @@
       <workItem from="1645204566637" duration="4142000" />
       <workItem from="1645212045233" duration="2457000" />
       <workItem from="1645293554818" duration="6397000" />
+      <workItem from="1645301749969" duration="382000" />
+      <workItem from="1645450199539" duration="1890000" />
     </task>
     <servers />
   </component>
@@ -163,42 +185,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="464" y="32" key="#TestSpring_(1)/0.0.1536.824@0.0.1536.824" timestamp="1645295597296" />
-    <state x="771" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1645212671193">
+    <state x="771" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1645451959866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="771" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1645212671193" />
+    <state x="771" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1645451959866" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645300054222">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1645300054222" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1645301643549">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1645451826939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645301643549" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1645301643549">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645451826939" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1645451826938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645301643549" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1645301643549">
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645451826938" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1645451826938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645301643549" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1645301643549">
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645451826938" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1645451826938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645301643549" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645451826938" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1645211509088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1645211509088" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1645299770526">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1645450570070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1645299770526" />
-    <state x="440" y="178" key="new project wizard" timestamp="1645299767703">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1645450570070" />
+    <state x="363" y="147" key="new project wizard" timestamp="1645450545952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="440" y="178" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1645299767703" />
+    <state x="363" y="147" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1645450545952" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1645124863447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
