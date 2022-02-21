@@ -64,18 +64,18 @@
     <property name="project.structure.side.proportion" value="0.20231214" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jald\IdeaProjects\SpringEDU" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ru.jald.spring" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jald\IdeaProjects\spring-app9\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app8\src\main\java\ru\jald\spring" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app8\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app7\src\main" />
       <recent name="C:\Users\Jald\IdeaProjects\spring-app6\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.jald.spring" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jald\IdeaProjects\SpringEDU" />
     </key>
   </component>
   <component name="RunManager" selected="Application.TestSpring (3)">
