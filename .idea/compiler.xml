@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-app11" />
         <module name="spring-app9" />
         <module name="spring-app8" />
         <module name="spring-app7" />
@@ -14,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-app11" target="1.7" />
       <module name="spring-app5" target="1.7" />
       <module name="spring-app6" target="1.7" />
       <module name="spring-app7" target="1.7" />

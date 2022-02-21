@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../spring-app11" />
     <file type="web" url="file://$PROJECT_DIR$/../spring-app9" />
     <file type="web" url="file://$PROJECT_DIR$/spring-app5" />
     <file type="web" url="file://$PROJECT_DIR$/spring-app6" />
@@ -18,6 +19,7 @@
         <option value="$PROJECT_DIR$/../spring-app7/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-app8/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-app9/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-app11/pom.xml" />
       </list>
     </option>
   </component>
